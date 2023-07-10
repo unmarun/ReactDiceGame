@@ -1,4 +1,4 @@
-# 기능
+# ReactDiceGame
 
 ![ezgif-5-ec01ffca8a](https://github.com/unmarun/ReactDiceGame/assets/132961278/9d96ae49-fa74-43c7-8e9a-052d69fa9d9f)
 
