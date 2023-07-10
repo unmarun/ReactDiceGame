@@ -1,3 +1,7 @@
+#기능
+![ezgif-5-ec01ffca8a](https://github.com/unmarun/ReactDiceGame/assets/132961278/9d96ae49-fa74-43c7-8e9a-052d69fa9d9f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
